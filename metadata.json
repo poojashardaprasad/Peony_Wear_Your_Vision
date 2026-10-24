@@ -1,0 +1,6 @@
+{
+  "name": "Peony - Wear Your Vision",
+  "description": "Peony is a premium fashion customization platform. Create your own custom outfit by selecting outfit types, choosing sketches, fabric swatches, and request tailoring quotes via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
