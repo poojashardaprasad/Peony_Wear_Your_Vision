@@ -72,9 +72,4 @@ The application will be running locally at `http://localhost:3000`.
 └── package.json
 ```
 
----
 
-## 📞 Workshop Contact
-
-Direct consultations and bespoke tailoring inquiries:  
-**PEONY Atelier Master Workshop**: [+91 87674 61199](https://wa.me/918767461199)
